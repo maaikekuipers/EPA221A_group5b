@@ -27,5 +27,3 @@ The folder is structured as follows.
 ├── README.md                             <-- Top-level README for an overview of the project.  
 |  
 ├── requirements.txt  
-|  
-├── Annotated_Powerpoint_5b.pdf           <-- The annotated PowerPoint of our product, serving as Assignment 3. This includes the link to the video as well.   
