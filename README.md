@@ -15,7 +15,7 @@ These notebooks and data files are part of a use case for our product in the cou
 ## Folder Structure
 The folder is structured as follows.
 
-├── data                                    <-- Data folder
+├── data                                    <-- Data folder  
 ├────── gemeente_shapefiles                     <-- Shapefiles of all the municipalities in the Netherlands
 ├────── raw                                     <-- All the raw data files
 ├────── processed                               <-- All the processed data files, used in the model notebook
