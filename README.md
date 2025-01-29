@@ -16,16 +16,16 @@ These notebooks and data files are part of a use case for our product in the cou
 The folder is structured as follows.
 
 ├── data                                    <-- Data folder  
-├────── gemeente_shapefiles                     <-- Shapefiles of all the municipalities in the Netherlands
-├────── raw                                     <-- All the raw data files
-├────── processed                               <-- All the processed data files, used in the model notebook
-│
-├── notebooks                               <-- Notebooks folder
-├────── data_cleaning                           <-- Notebooks for the data cleaning
-├────── model                                   <-- Notebook for the model
-|
-├── README.md                             <-- Top-level README for an overview of the project.
-|
-├── requirements.txt
-|
-├── Annotated_Powerpoint_5b.pdf           <-- The annotated PowerPoint of our product, serving as Assignment 3. This includes the link to the video as well. 
+├────── gemeente_shapefiles                     <-- Shapefiles of all the municipalities in the Netherlands  
+├────── raw                                     <-- All the raw data files  
+├────── processed                               <-- All the processed data files, used in the model notebook  
+│  
+├── notebooks                               <-- Notebooks folder  
+├────── data_cleaning                           <-- Notebooks for the data cleaning  
+├────── model                                   <-- Notebook for the model  
+|  
+├── README.md                             <-- Top-level README for an overview of the project.  
+|  
+├── requirements.txt  
+|  
+├── Annotated_Powerpoint_5b.pdf           <-- The annotated PowerPoint of our product, serving as Assignment 3. This includes the link to the video as well.   
